@@ -6,6 +6,7 @@ TikTok Analytics
 
 # Python libraries 
 pip install TikTokApi==4.1.0
+
 python -m playwright install
 python -m pip install ipykernel
 pip install pandas
